@@ -1,0 +1,8 @@
+Exercice 1:
+  La classe extends 2 classes (JFrame et Thread) (heritage multiple impossible en Java)
+
+Exercice 2:
+  - Dans la classe B, il manque l'override
+  - le a est privé dans la classe A, donc on ne peut pas l'utiliser pour les classes filles
+  -  Dans la classe D, le seul autorise c'est le a.i
+  - Dans la classe F, c'est la meme que pour D

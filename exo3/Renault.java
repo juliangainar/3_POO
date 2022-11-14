@@ -11,3 +11,4 @@ public class Renault extends Voiture {
     this.reductionConstructeur = reductionConstructeur;
     this.anneeDeFabrication = anneeDeFabrication;
   }
+}
